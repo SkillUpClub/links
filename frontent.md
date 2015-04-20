@@ -6,7 +6,7 @@
 
 ## Material Design
 
- - https://github.com/mkhairi/materialize-sass -- гем обертка для http://materializecss.com/badges.html
+ - https://github.com/mkhairi/materialize-sass -- гем обертка для http://materializecss.com/
 
 ## Javascript libs
 
