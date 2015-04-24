@@ -6,3 +6,8 @@
 
 ## Gems
  - https://github.com/aanand/deadweight - гем для выявления неиспользуемых css-стилей
+
+## Docs
+ - Dash (Mac Os) https://kapeli.com/dash - прога для доступа к документации
+ - Velocity (то же самое для Windows) https://velocity.silverlakesoftware.com/
+ - Devdocs http://devdocs.io/ - онлайн хранилище
