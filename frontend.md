@@ -9,6 +9,9 @@
 ## Javascript libs
 
  http://microjs.com/ - JS либы на все случаи жизни.
+ 
+## A collection of React resources
+ - https://github.com/enaqx/awesome-react -- Сборник разных ресурсов для работы с React
 
 # Gems
 
